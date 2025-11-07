@@ -1,0 +1,27 @@
+# ==========================================
+#  OIL Token Metadata for Tonkeeper Registry
+#  Author: Oiltokenofficial
+#  Network: TON Mainnet
+#  ==========================================
+
+address: EQBKYEHMfMRcplj_7eVsBHW1RnqXf-PO8XP-xISXRRu-XA7q
+name: Oil Token
+symbol: OIL
+decimals: 9
+image: "https://i.postimg.cc/bJ7mCD5Z/file-000000000c0c6243b9263765619cddcb-2.png"
+description: >
+  💧 OIL — The Digital Barrel of Energy.
+
+  OIL is a blockchain-based digital asset representing the value of crude oil, built on the TON network.
+  Each OIL token equals one barrel of oil in digital form, enabling transparent, borderless, and efficient trading of energy resources worldwide.
+
+  Designed for DeFi integration and cross-chain liquidity, OIL connects the global energy economy with decentralized finance.
+  Holders can trade, stake, and transfer OIL seamlessly within the TON ecosystem or through future integrations with other major DEX platforms.
+
+  | Total Supply: 10,000,000,000 | Transferable ✅
+
+websites:
+  - "https://oiltoken.web.app"
+
+social:
+  - "https://t.me/oilofficial"
